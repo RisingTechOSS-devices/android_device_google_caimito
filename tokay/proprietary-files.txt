@@ -73,6 +73,9 @@ product/priv-app/DiagMon/DiagMon.apk
 product/priv-app/EuiccGoogle/EuiccGoogle.apk;PRESIGNED
 product/priv-app/TetheringEntitlement/TetheringEntitlement.apk
 
+# Scone
+product/priv-app/SCONE-v37764/SCONE-v37764.apk;PRESIGNED
+
 # VZW
 product/app/VZWAPNLib/VZWAPNLib.apk;PRESIGNED
 product/etc/permissions/com.android.omadm.service.xml
